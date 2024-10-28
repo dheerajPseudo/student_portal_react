@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function dashboard() {
   return (
-    <div>dashboard test</div>
+    <div>dashboard commit second</div>
   )
 }
